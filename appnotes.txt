@@ -1,0 +1,14 @@
+appId: 6087e0a9-e7ea-4ee1-ad50-f4f74eb1bf01
+
+  "passwordCredentials": [
+    {
+      "additionalProperties": null,
+      "customKeyIdentifier": null,
+      "endDate": "2022-05-22T21:12:10.990712+00:00",
+      "keyId": "94831fe8-2c85-4384-a6dc-561d0823e5dc",
+      "startDate": "2021-05-23T21:12:10.990712+00:00",
+      "value": null
+    }
+
+//local git integrated w/ Azure
+"url": "https://chaoticgoodpanda@iron-butterfly-web-app.scm.azurewebsites.net/iron-butterfly-web-app.git"
